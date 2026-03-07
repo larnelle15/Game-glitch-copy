@@ -24,8 +24,9 @@ It wrote the code, ran away, and now the game is unplayable.
    - Keep fixing until all tests pass!
 
 ## 📸 Demo
+<img width="1264" height="804" alt="Screenshot 2026-03-06 at 9 51 26 PM" src="https://github.com/user-attachments/assets/caf826d2-243a-43b3-9b41-394d1b8791d7" />
 
-![Game Demo](Screenshot%202026-03-06%20at%209.51.26%20PM.png)
+
 
 ## 🚀 Stretch Features
 
