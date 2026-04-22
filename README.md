@@ -28,7 +28,8 @@ This project extends the base game into a full **Applied AI System** with four m
 
 ## 🏗️ Architecture Overview
 
-![System Architecture](assets/architecture.png)
+<img width="2416" height="4840" alt="Code Snippet Input-2026-04-20-035454" src="https://github.com/user-attachments/assets/2327c40b-3587-465a-b122-30d952f92e5c" />
+
 
 ---
 
@@ -180,7 +181,7 @@ applied-ai-system-project/
 
 ## 🎬 Demo Walkthrough
 
-*[Insert Loom video link here]*
+*[<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/9fb6949381dc414eaf41560dcacc595a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>]
 
 ---
 
