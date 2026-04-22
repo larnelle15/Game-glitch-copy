@@ -27,7 +27,7 @@ logger = logging.getLogger(__name__)
  
 # ── Anthropic client ───────────────────────────────────────────────────────────
 client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "claude-haiku-4-5-20251001"
  
 # ── Few-shot specialization examples (Fine-Tuning / Specialization feature) ────
 FEW_SHOT_EXAMPLES = """
